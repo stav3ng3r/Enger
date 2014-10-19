@@ -1,0 +1,6 @@
+{
+    "require": {
+        "maximebf/debugbar": "1.*",
+        "raveren/kint": "0.9.1"
+    }
+}
